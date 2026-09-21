@@ -1,6 +1,6 @@
 # Heyneeraj
 # 💫 About Me:
-👨‍💻 BCA Student | Web Developer | Data Analytics & AI/ML Enthusiast<br><br>🚀 Building responsive web applications & practical projects<br>💻 Java | Python | JavaScript | HTML | CSS | PHP | SQL<br>📊 Data Analytics | NumPy | Pandas | Data Visualization<br>🤖 Exploring Artificial Intelligence & Machine Learning<br>🌱 Learning, building, and improving every day<br>
+👨‍💻 BCA Student | Web Developer | Data Analytics & AI/ML Enthusiast<br><br>🚀 Building responsive web applications & practical projects<br>💻 Java | Python | JavaScript | HTML | CSS | PHP | SQL<br>📊 Data Analytics | NumPy | Pandas | Data Visualization<br>🤖 Exploring Artificial Intelligence & Machine Learning, Data <br>🌱 Learning, building, and improving every day<br>
 
 
 ## 🌐 Socials:
